@@ -1,5 +1,4 @@
-# CC-Hackathon
-
+Blog App
 Commands:
 
 Starting minikube
