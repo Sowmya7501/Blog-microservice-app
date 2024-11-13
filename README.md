@@ -1,4 +1,4 @@
-# Blog App
+# Simple Blog App
 Commands:
 
 Starting minikube
